@@ -158,7 +158,7 @@ nav a {
 
 .icon {
     border: 1px hidden;
-    width: 7cm;
+    width: 20%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 2px;
