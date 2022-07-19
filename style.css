@@ -1,3 +1,10 @@
+/* Mobile style  */
+/* @media only screen and (max-width:688px) {
+    .nav {
+        background-color: #fff;
+    }
+} */
+
 h1 {
     font-size: 50px;
 }
