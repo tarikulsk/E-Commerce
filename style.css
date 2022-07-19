@@ -73,8 +73,8 @@ nav a {
 /* logo style start */
 .logo-a {
     border: 2px solid silver;
-    border-radius: 5px;
-    width: 100%;
+    border-width: 100%;
+    border-inline: 5px;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     justify-content: space-around;
@@ -83,6 +83,8 @@ nav a {
     padding-bottom: 2%;
     margin-top: 5%;
     margin-left: 10%;
+    margin-right: 10%;
+
 
     /* margin-right: 20%; */
 
