@@ -147,10 +147,23 @@ nav a {
 
 /* footer style start  */
 .footer {
-    height: 200px;
+    height: 250px;
     width: 100% !important;
     background-color: blue;
+    justify-content: center;
     text-align: center;
+    color: white;
+    padding-top: 3px;
+}
+
+.icon {
+    border: 1px hidden;
+    width: 7cm;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2px;
+    margin-left: 40%;
+
 }
 
 /* footer style end  */
